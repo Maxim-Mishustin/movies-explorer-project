@@ -54,11 +54,12 @@
 
 ## Ccылка на проекта и IP
 
-IP 
+IP 158.160.115.27
 
 ## Ccылка на фронтенд
 
-
+https://maxim.nomoreparties.co
 
 ## Ссылка на пулреквест
 
+https://github.com/Maxim-Mishustin/movies-explorer-project/pull/1
